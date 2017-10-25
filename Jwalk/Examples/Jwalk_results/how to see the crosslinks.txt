@@ -1,0 +1,1 @@
+In order to visualize the crosslinks in Chimera select Actions>Atoms/Bonds>show
