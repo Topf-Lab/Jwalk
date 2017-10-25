@@ -1,6 +1,5 @@
      
-#     Jwalk - A tool to calculate the solvent accessible surface distance (SASD) 
-#     between crosslinked residues.
+#     Jwalk - A tool to calculate the solvent accessible surface distance (SASD) between crosslinked residues.
      
      Copyright 2016 Jwalk Inventor and Birkbeck College University of London.
                           The Jwalk Inventor is: Josh Bullock
